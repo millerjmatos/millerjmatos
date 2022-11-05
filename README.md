@@ -5,8 +5,9 @@
 -   I’m involved in sharing some stuff and collaborating other technology enthusiasts with open source tools.
 
 -   📫 You can send me an e-mail to contato@mullertec.com.br
+
 <br>
-<br>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/millerjmatos/)](https://www.linkedin.com/in/millerjmatos/)
 
 ---
