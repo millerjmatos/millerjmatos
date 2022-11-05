@@ -2,7 +2,7 @@
 
 -   👋 Hi, I'm a technologist and consultant of computer networks, with 10 years of know-how in service desk support. Providing solutions with free tools on Linux, computer networks and structured cabling.
 
--   I’m involved in sharing some stuff and collaborating other technology enthusiasts with open source tools.
+-   I'm passionate about sharing technical information, study strategies, and I want to collaborate with the community focusing on open source tools.
 
 -   📫 You can send me an e-mail to contato@mullertec.com.br
 
