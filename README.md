@@ -1,6 +1,6 @@
 # Muller Jorge
 
--   👋 Hi, I'm a technologist and consultant of computer networks since 2019 with 10 years of know-how in service desk support. Providing solutions with free tools on Linux, computer networks and structured cabling.
+-   👋 Hi, I'm a technologist and consultant of computer networks, with 10 years of know-how in service desk support. Providing solutions with free tools on Linux, computer networks and structured cabling.
 
 -   I’m involved in sharing some stuff and collaborating other technology enthusiasts with open source tools.
 
