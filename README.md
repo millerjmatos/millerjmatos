@@ -12,7 +12,7 @@
 
 ---
 
-## <b>Some technologies of my interest..</b>
+### <b>Some technologies..</b>
 <br>
 
   ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=for-the-badge&logo=linux&logoColor=white)
