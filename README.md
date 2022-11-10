@@ -13,15 +13,21 @@
 ---
 <br>
 
-  ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=for-the-badge&logo=linux&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=for-the-badge&logo=github&logoColor=black)
-  ![Amazon AWS](https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-  ![Zabbix](https://img.shields.io/badge/-Zabbix-red?style=for-the-badge&logo=zabbix&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=white)
-  ![Shell Script](https://img.shields.io/badge/-Shell%20Script-black?style=for-the-badge&logo=shell&logoColor=white)
+![AWS](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/aws.png)
+![DOCKER](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/docker.png)
+![GIT](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/git.png)
+![GITHUB](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/github.png) 
 
+![MIKROTIK](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/mikrotik.png)
+![MINT](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/mint.png)
+![OMV](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/omv.png)
+![PFSENSE](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/pfsense.png)
+
+![UCS](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/ucs.png)
+![UNIFI](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/unifi.png)
+![VSTUDIO](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/vstudio.png)
+![ZABBIX](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/zabbix.png)  
+![Shell Script](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/shell.svg)
 
 <!---
 millerjmatos/millerjmatos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
