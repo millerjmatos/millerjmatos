@@ -11,8 +11,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/millerjmatos/)](https://www.linkedin.com/in/millerjmatos/)
 
 ---
-<br>
-
 ### The ones that stand out, work in hands-on jobs and rather get their hands dirty than talk..
 <br>
 
