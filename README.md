@@ -11,7 +11,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/millerjmatos/)](https://www.linkedin.com/in/millerjmatos/)
 
 ---
-### The ones that stand out, work in hands-on jobs and rather get their hands dirty than talk..
+### The ones that stand out, rather get their hands dirty than talk..
 
 ![AWS](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/aws.png)
 ![DOCKER](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/docker.png)
