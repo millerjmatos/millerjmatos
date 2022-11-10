@@ -11,9 +11,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/millerjmatos/)](https://www.linkedin.com/in/millerjmatos/)
 
 ---
+<br>
+
 ### The ones that stand out, rather get their hands dirty than talk..
 
-![AWS](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/aws.png)
+![AWS](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/aws2.png)
 ![DOCKER](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/docker.png)
 ![GIT](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/git.png)
 ![GITHUB](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/github.png)
@@ -27,6 +29,7 @@
 ![VSTUDIO](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/vstudio.png)
 ![ZABBIX](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/zabbix.png)  
 ![Shell Script](https://raw.githubusercontent.com/millerjmatos/millerjmatos/b12b5e6601d3256093a2349570de73e7eb7c510e/img/shell.svg)
+
 
 <!---
 millerjmatos/millerjmatos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
