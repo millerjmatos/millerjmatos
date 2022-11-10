@@ -12,7 +12,6 @@
 
 ---
 ### The ones that stand out, work in hands-on jobs and rather get their hands dirty than talk..
-<br>
 
 ![AWS](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/aws.png)
 ![DOCKER](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/docker.png)
