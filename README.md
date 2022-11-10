@@ -11,7 +11,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/millerjmatos/)](https://www.linkedin.com/in/millerjmatos/)
 
 ---
-<br>
 
 ### The ones that stand out, rather get their hands dirty than talk..
 
