@@ -23,7 +23,6 @@
   ![Shell Script](https://img.shields.io/badge/-Shell%20Script-black?style=for-the-badge&logo=shell&logoColor=white)
 
 
-
 <!---
 millerjmatos/millerjmatos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
