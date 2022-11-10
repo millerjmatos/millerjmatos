@@ -27,7 +27,7 @@
 ![UNIFI](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/unifi.png)
 ![VSTUDIO](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/vstudio.png)
 ![ZABBIX](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/zabbix.png)  
-![Shell Script](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/shell.svg)
+![Shell Script](https://raw.githubusercontent.com/millerjmatos/millerjmatos/b12b5e6601d3256093a2349570de73e7eb7c510e/img/shell.svg)
 
 <!---
 millerjmatos/millerjmatos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
