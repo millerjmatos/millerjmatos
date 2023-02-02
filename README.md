@@ -1,8 +1,8 @@
 # Muller Jorge
 
--   👋 Hi, I'm a technologist and consultant of computer networks, with 10 years of know-how in service desk support. Providing solutions with free tools on Linux, computer networks and structured cabling.
+-   👋 Hi, as a technology and computer network consultant with 10 years of service desk support expertise, I provide solutions using free tools on Linux, computer networks, and structured cabling.
 
--   I'm involved about sharing technical information, study strategies, and develop the use of open source tools by everyone!
+-   I am passionate about sharing my technical knowledge, researching strategies, and promoting the widespread use of open source tools to benefit everyone.
 
 -   📫 You can send me an e-mail to contato@mullertec.com.br
 
@@ -12,7 +12,7 @@
 
 ---
 
-### The ones that stand out, rather get their hands dirty than talk..
+### Actions speak louder than words..
 
 ![AWS](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/aws2.png)
 ![DOCKER](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/docker.png)
