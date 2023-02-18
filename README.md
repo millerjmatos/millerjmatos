@@ -1,8 +1,8 @@
 # Muller Jorge
 
--   👋 Hello, as a computer network consultant with 10 years of service desk support expertise, I talk about solutions using free tools on Linux, computer networks, and structured cabling.
+-   👋 Hello! As a computer network consultant with 10 years of experience in service desk support, I specialize in providing solutions using free tools on Linux, computer networks, and structured cabling.
 
--   I am passionate about sharing technical knowledge. We don't have much time, so let's cut to the chase.
+-   I am passionate about sharing technical knowledge, and since we often lack time, I prefer to get straight to the point.
 
 -   📫 You can send me an e-mail to contato@mullertec.com.br
 
