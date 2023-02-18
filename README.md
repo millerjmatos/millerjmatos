@@ -12,8 +12,6 @@
 
 ---
 
-### Actions speak louder than words..
-
 ![AWS](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/aws2.png)
 ![DOCKER](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/docker.png)
 ![GIT](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/git.png)
