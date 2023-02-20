@@ -1,6 +1,6 @@
 # Muller Jorge
 
--   👋 Hello! I hold a degree in Computer Network, and currently, I work as a Linux Analyst for a multinational company. I specialize in free and open-source tools, particularly Linux-based systems, to provide solutions that are cost-effective.
+-   👋 Hello! I hold a degree in Computer Network, and currently, I work as a Linux Analyst for a multinational company. I specialize in free and open source tools, particularly Linux-based systems, to provide solutions that are real cost-effective.
 
 -   I am passionate about sharing technical knowledge, and since we often lack time, I prefer to get straight to the point.
 
