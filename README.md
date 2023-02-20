@@ -1,6 +1,6 @@
 # Muller Jorge
 
--   👋 Hello! As a computer network consultant with 10 years of experience in service desk support, I specialize in providing solutions using free tools on Linux and structured cabling.
+-   👋 Hello! I hold a degree in Computer Networking, and currently, I work as a Linux Analyst for a multinational company. I specialize in free and open-source tools, particularly Linux-based systems, to provide solutions for my clients that are cost-effective.
 
 -   I am passionate about sharing technical knowledge, and since we often lack time, I prefer to get straight to the point.
 
