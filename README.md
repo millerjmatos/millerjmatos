@@ -2,7 +2,7 @@
 
 -   👋 Hello! I hold a degree in Computer Network, and currently, I work as a Linux Analyst for a multinational company. I specialize in free and open source tools, particularly Linux-based systems. My desktop distribution is currently Linux Mint since 2020 and for servers I'm using RHEL/Rocky Linux.
 
--   I love sharing technical knowledge and using the "keep it simple" methodology because I know our time is often limited. 
+-   I love sharing technical knowledge and using the "keep it simple" methodology.
 
 -   📫 You can send me an e-mail to contato@mullertec.com.br
 
