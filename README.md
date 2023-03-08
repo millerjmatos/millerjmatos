@@ -1,6 +1,6 @@
 # Muller Jorge
 
--   👋 Hello! I hold a degree in Computer Network, currently I work as a Linux Analyst for a multinational company. I specialize in free and open source tools, particularly Linux-based systems. My desktop distribution is now Linux Mint since 2020 and for servers I'm using RHEL/Rocky Linux.
+-   👋 Hello! I hold a degree in Computer Network, currently I work as a Linux Analyst for a multinational company. I specialize in free and open source tools, particularly Linux-based systems. My desktop distribution is now Linux Mint since 2020 and for servers RHEL/Rocky Linux.
 
 -   I love sharing technical knowledge and using the "keep it simple" methodology.
 
