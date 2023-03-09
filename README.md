@@ -22,7 +22,7 @@
 ![OMV](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/omv.png)
 ![PFSENSE](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/pfsense.png)
 ![UCS](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/ucs.png)
-![UNIFI](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/unifi.png)
+![UNIFI](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/rocky.png)
 ![VSTUDIO](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/vstudio.png)
 ![ZABBIX](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/zabbix.png)  
 ![Shell Script](https://raw.githubusercontent.com/millerjmatos/millerjmatos/b12b5e6601d3256093a2349570de73e7eb7c510e/img/shell.svg)
