@@ -19,7 +19,7 @@
 ![ANSIBLE](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/ansible-45x.png)
 
 ![K8S](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/k8s-45x.png)
-![OMV](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/omv.png)
+![PYTHON](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/python-45x.png)
 ![PFSENSE](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/pfsense.png)
 ![ROCKY](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/rocky.png)
 ![TERRAFORM](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/terraform-45x.png)
