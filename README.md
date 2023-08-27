@@ -26,7 +26,7 @@
 ![UCS](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/ucs.png)
 ![ZABBIX](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/zabbix.png)
 
-![PYTHON](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/pyhon-200x40.png)
+![PYTHON](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/pyhon-100x20.png)
 
 
 <!---
