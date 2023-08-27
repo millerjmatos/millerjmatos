@@ -16,13 +16,16 @@
 ![GITHUB](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/github.png)
 ![MIKROTIK](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/mikrotik.png)
 ![MINT](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/mint.png)
+![ANSIBLE](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/ansible-45x.png)
 
+![K8S](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/k8s-45x.png)
 ![OMV](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/omv.png)
 ![PFSENSE](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/pfsense.png)
+![ROCKY](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/rocky.png)
+![TERRAFORM](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/terraform-45x.png)
 ![UCS](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/ucs.png)
-![UNIFI](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/rocky.png)
-![VSTUDIO](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/vstudio.png)
-![ZABBIX](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/zabbix.png)  
+![ZABBIX](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/zabbix.png)
+
 ![Shell Script](https://raw.githubusercontent.com/millerjmatos/millerjmatos/b12b5e6601d3256093a2349570de73e7eb7c510e/img/shell.svg)
 
 
