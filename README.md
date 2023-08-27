@@ -26,9 +26,6 @@
 ![UCS](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/ucs.png)
 ![ZABBIX](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/zabbix.png)
 
-![PYTHON](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/pyhon-100x20.png)
-
-
 <!---
 millerjmatos/millerjmatos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
