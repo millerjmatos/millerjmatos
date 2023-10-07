@@ -1,4 +1,4 @@
-![Linkedin Cover](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/cover.png)
+![Linkedin Cover](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/github_.png)
 
 -   👋 Hi, my name is Muller Jorge Matos, I hold a degree in Computer Network and currently I work as a Linux Analyst. Over the years, I've refined my skills, specializing in Linux-based systems. Driven by a strong passion for Linux and open source technologies, my ultimate goal is to apply the principles of DevOps in my daily job. My desktop distribution is Linux Mint.
 
