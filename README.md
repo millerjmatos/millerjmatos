@@ -1,6 +1,6 @@
 ![Linkedin Cover](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/github_2.png)
 
--   👋 Hi! I'm Muller, a Linux Analyst with a Computer Networks degree. I'm experienced in Linux systems, which I'm truly passionate about. Over the years, I've developed expertise in open source technologies. Currently, I'm focused on implementing DevOps practices in my daily work. I use Linux Mint as my main operating system.
+👋 Hi! I'm Muller, a Linux System Analyst with a Computer Networks background. Passionate about Linux and Open Source ecosystems (currently running Linux Mint) and actively implementing DevOps methodologies. Focused on infrastructure automation, CI/CD practices, and building reliable systems. Always exploring new ways to optimize and improve technology solutions. 🐧 ⚡
 
 -   📫 You can send me an e-mail to contato@mullertec.com.br
 
