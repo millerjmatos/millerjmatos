@@ -1,6 +1,6 @@
 ![Linkedin Cover](https://raw.githubusercontent.com/millerjmatos/millerjmatos/main/img/github_2.png)
 
-👋 Hi! I'm Muller, a Linux System Analyst with a Computer Networks background. Passionate about Linux and Open Source ecosystems (currently running Linux Mint) and actively implementing DevOps methodologies. Focused on infrastructure automation, CI/CD practices, and building reliable systems. Always exploring new ways to optimize and improve technology solutions. 🐧 ⚡
+👋 Hi! I'm Muller, a Linux System Analyst with a Computer Networks background. Passionate about Linux and Open Source ecosystems (currently running Linux Mint) and actively implementing DevOps methodologies. Focused on infrastructure automation, CI/CD practices, and building reliable systems. I'm all about hands-on solutions that deliver real technological value. 🐧⚡
 
 -   📫 You can send me an e-mail to contato@mullertec.com.br
 
